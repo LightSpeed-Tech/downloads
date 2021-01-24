@@ -1,4 +1,8 @@
-
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Your Great App's Changelog</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
           <item>
             <title>Version 0.0.7</title>
             <pubDate>Sat, 23 Jan 2021 15:49:37 -0800</pubDate>
@@ -10,4 +14,5 @@
               sparkle:shortVersionString="0.0.7"
               type="application/octet-stream"/>
           </item>
-      
+    </channel>
+</rss> 

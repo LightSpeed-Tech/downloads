@@ -3,6 +3,19 @@
         <title>Your Great App's Changelog</title>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
+
+          <item>
+            <title>Version 0.0.8</title>
+            <pubDate>Sun, 24 Jan 2021 00:59:11 -0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/LightSpeed-Tech/downloads/master/0.0.8/release-notes.txt</sparkle:releaseNotesLink>
+            <enclosure
+              url="https://raw.githubusercontent.com/LightSpeed-Tech/downloads/master/0.0.8/VoyagerMacosPython3.9.dmg"
+              sparkle:version="0.0.8"
+              sparkle:shortVersionString="0.0.8"
+              type="application/octet-stream"/>
+          </item>
+      
           <item>
             <title>Version 0.0.7</title>
             <pubDate>Sat, 23 Jan 2021 15:49:37 -0800</pubDate>

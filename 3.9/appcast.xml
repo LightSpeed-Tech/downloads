@@ -5,6 +5,19 @@
         <language>en</language>
 
           <item>
+            <title>Version 0.0.14</title>
+            <pubDate>Sun, 31 Jan 2021 17:41:22 -0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/LightSpeed-Tech/downloads/master/0.0.14/release-notes.txt</sparkle:releaseNotesLink>
+            <enclosure
+              url="https://raw.githubusercontent.com/LightSpeed-Tech/downloads/master/0.0.14/VoyagerMacosPython3.9.dmg"
+              sparkle:version="0.0.14"
+              sparkle:shortVersionString="0.0.14"
+              type="application/octet-stream"/>
+          </item>
+      
+
+          <item>
             <title>Version 0.0.11</title>
             <pubDate>Sun, 24 Jan 2021 10:35:39 -0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
